@@ -28,4 +28,5 @@ This project is designed for learning Java basics and practicing **ArrayLists**,
 
 Here is an example of the application in action:
 
-![Console Screenshot](images/console_example.png)
+![Console Screenshot](images/console-example.png)
+
